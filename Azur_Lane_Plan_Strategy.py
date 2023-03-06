@@ -4,7 +4,7 @@
 """
 THIS FILE IS CORE PART OF ALPS BY MATT BELFAST BROWN
 Azur_Lane_Plan_Strategy.py - The core part of this tool.
-ALP-AASPT（Azur Lane Plan Annealing Algorithm Strategy Planning Tool）.
+Azur Lane Plan Annealing Algorithm Strategy Planning Tool
 The code is from `azurlanekeyan` product by tianqianzhiyang, Licensed under the Mulan PSL V2.
 Copyright (C) 2022 tianqianzhiyang
 Author: tianqianzhiyang
